@@ -1,0 +1,7 @@
+[
+    { "id": 1, "name": "Gato", "type": "Animal", "priceD": 27, "priceC": 10 },
+    { "id": 2, "name": "Perro", "type": "Animal", "priceD": 35, "priceC": 15 },
+    { "id": 3, "name": "Camisa", "type": "Objeto", "priceD": 20, "priceC": 6 },
+    { "id": 4, "name": "Sombrero", "type": "Objeto", "priceD": 17, "priceC": 4 },
+    { "id": 5, "name": "Arma", "type": "Objeto", "priceD": 20, "priceC": 8 }
+]

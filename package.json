@@ -1,0 +1,35 @@
+{
+  "name": "Kira-Bot",
+  "version": "1.0.0",
+  "description": "Kirabot hecho desde 0",
+  "main": "index.js",
+  "dependencies": {
+    "@adiwajshing/keyed-db": "^0.2.4",
+    "@hapi/boom": "^10.0.1",
+    "@whiskeysockets/baileys": "^6.7.5",
+    "aptoide-scraper": "^1.0.1",
+    "awesome-phonenumber": "^2.69.0",
+    "cfonts": "^3.3.0",
+    "chalk": "^4.1.2",
+    "cheerio": "^1.0.0-rc.12",
+    "cli-color": "^2.0.4",
+    "dotenv": "^16.4.5",
+    "fluent-ffmpeg": "^2.1.3",
+    "form-data": "^4.0.0",
+    "google-it": "^1.6.4",
+    "jimp": "^0.16.13",
+    "mime-types": "^2.1.35",
+    "node-cache": "^5.1.2",
+    "node-fetch": "^3.3.2",
+    "node-webpmux": "^3.2.0",
+    "perf_hooks": "^0.0.1",
+    "pino": "^9.2.0",
+    "webp-converter": "^2.3.3",
+    "yt-search": "^2.11.0",
+    "ytdl-core": "^4.11.5",
+    "ytsr": "^3.8.4"
+  },
+  "devDependencies": {
+    "javascript-obfuscator": "^4.1.1"
+  }
+}
