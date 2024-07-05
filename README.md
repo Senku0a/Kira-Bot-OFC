@@ -1,9 +1,8 @@
-# 🌟 Kira-Bot-OFC 🌟
+# 🌈 𝓚𝓲𝓻𝓪-𝓑𝓸𝓽-𝓞𝓕𝓒 🌈
 
 <p align="center"> 
 <a href="https://github.com/matias-crypto/"><img src="http://readme-typing-svg.herokuapp.com?font=fira+Code&pause=1000&colored0707&width=435&lines=𝑩𝑰𝑬𝑵𝑽𝑬𝑵𝑰𝑫𝑶/𝑨; 𝑮𝑹𝑨𝑪𝑰𝑨𝑺+𝑷𝑶𝑹+𝑼𝑺𝑨𝑹+𝑬𝑳+𝑩𝑶𝑻;KIRA-BOT-OFC" height="90px"></a> 
 </p>
-
 
 ![Kira-Bot-OFC](https://file.io/aach1x2O6IcM)
 
@@ -15,7 +14,7 @@
 
 ## ✨ Descripción
 
-Kira-Bot-OFC es un bot de WhatsApp potente y versátil desarrollado con Baileys, una librería moderna y eficiente para interactuar con la API de WhatsApp Web. Este bot ofrece una amplia gama de funcionalidades y comandos para enriquecer tu experiencia en WhatsApp. Ya sea para uso personal, profesional o comunitario, Kira-Bot-OFC es tu compañero ideal para automatizar tareas y mejorar la interacción.
+𝓚𝓲𝓻𝓪-𝓑𝓸𝓽-𝓞𝓕𝓒 es un bot de WhatsApp potente y versátil desarrollado con Baileys, una librería moderna y eficiente para interactuar con la API de WhatsApp Web. Este bot ofrece una amplia gama de funcionalidades y comandos para enriquecer tu experiencia en WhatsApp. Ya sea para uso personal, profesional o comunitario, 𝓚𝓲𝓻𝓪-𝓑𝓸𝓽-𝓞𝓕𝓒 es tu compañero ideal para automatizar tareas y mejorar la interacción.
 
 ---
 
@@ -31,7 +30,7 @@ Antes de comenzar con la instalación, asegúrate de tener los siguientes requis
 
 ## ⚙️ Instalación
 
-Sigue estos sencillos pasos para instalar y poner en marcha Kira-Bot-OFC en tu sistema:
+Sigue estos pasos para instalar y poner en marcha 𝓚𝓲𝓻𝓪-𝓑𝓸𝓽-𝓞𝓕𝓒 en tu sistema:
 
 1. **Instala Node.js**:
     ```sh
@@ -93,10 +92,9 @@ Una vez que el bot esté en funcionamiento, sigue estos pasos para vincularlo a 
 
 Si tienes alguna pregunta o necesitas soporte, puedes contactarnos a través de:
 
-- **Número soporte**:
-+542215034412
+- **Número soporte**: +542215034412
 - **GitHub Issues**: [Issues](https://github.com/Brann-ztw/Kira-Bot-OFC/issues)
 
 ---
 
-¡Gracias por usar Kira-Bot-OFC! Esperamos que disfrutes de todas sus funcionalidades y que te sea de gran ayuda. 🚀✨
+¡𝓖𝓻𝓪𝓬𝓲𝓪𝓼 𝓹𝓸𝓻 𝓾𝓼𝓪𝓻 𝓚𝓲𝓻𝓪-𝓑𝓸𝓽-𝓞𝓕𝓒! 𝓔𝓼𝓹𝓮𝓻𝓪𝓶𝓸𝓼 𝓺𝓾𝓮 𝓭𝓲𝓼𝓯𝓻𝓾𝓽𝓮𝓼 𝔂 𝓺𝓾𝓮 𝓽𝓮 𝓼𝓮𝓪 𝓭𝓮 𝓰𝓻𝓪𝓷 𝓱𝓮𝓵𝓹𝓪. 🚀✨
