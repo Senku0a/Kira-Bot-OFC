@@ -1,7 +1,9 @@
 # 🌈 𝓚𝓲𝓻𝓪-𝓑𝓸𝓽-𝓞𝓕𝓒 🌈
 
 <p align="center"> 
-<a href="https://github.com/matias-crypto/"><img src="http://readme-typing-svg.herokuapp.com?font=fira+Code&pause=1000&colored0707&width=435&lines=𝑩𝑰𝑬𝑵𝑽𝑬𝑵𝑰𝑫𝑶/𝑨; 𝑮𝑹𝑨𝑪𝑰𝑨𝑺+𝑷𝑶𝑹+𝑼𝑺𝑨𝑹+𝑬𝑳+𝑩𝑶𝑻;KIRA-BOT-OFC" height="90px"></a> 
+  <a href="https://github.com/matias-crypto/">
+    <img src="http://readme-typing-svg.herokuapp.com?font=fira+Code&pause=1000&colored0707&width=435&lines=𝓚𝓘𝓡𝓐-𝓑𝓞𝓣-𝓞𝓕𝓒" height="90px">
+  </a> 
 </p>
 
 ![Kira-Bot-OFC](https://file.io/aach1x2O6IcM)
