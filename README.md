@@ -90,7 +90,7 @@ Una vez que el bot esté en funcionamiento, sigue estos pasos para vincularlo a 
 
 Si tienes alguna pregunta o necesitas soporte, puedes contactarnos a través de:
 
-- **Número soporte**: Wa.me/+542215034412
+- **Número soporte**: <Wa.me/+542215034412>
 - **GitHub Issues**: [Issues](https://github.com/Brann-ztw/Kira-Bot-OFC/issues)
 
 ---
