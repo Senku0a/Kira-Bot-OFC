@@ -1,5 +1,10 @@
 # 🌟 Kira-Bot-OFC 🌟
 
+<p align="center"> 
+<a href="https://github.com/glytglobal/"><img src="http://readme-typing-svg.herokuapp.com?font=fira+Code&pause=1000&colored0707&width=435&lines=𝑩𝑰𝑬𝑵𝑽𝑬𝑵𝑰𝑫𝑶/𝑨; 𝑮𝑹𝑨𝑪𝑰𝑨𝑺+𝑷𝑶𝑹+𝑼𝑺𝑨𝑹+𝑬𝑳+𝑩𝑶𝑻;𝑨𝑽𝑬𝑹𝑵𝑼𝑺𝑩𝑶𝑻-𝑴𝑫" height="90px"></a> 
+</p>
+
+
 ![Kira-Bot-OFC](https://file.io/aach1x2O6IcM)
 
 [![GitHub stars](https://img.shields.io/github/stars/Brann-ztw/Kira-Bot-OFC.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/Brann-ztw/Kira-Bot-OFC/stargazers/)
