@@ -1,14 +1,18 @@
 # Kira-Bot-OFC
 
+[![GitHub stars](https://img.shields.io/github/stars/Brann-ztw/Kira-Bot-OFC.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/Brann-ztw/Kira-Bot-OFC/stargazers/)
+[![GitHub forks](https://img.shields.io/github/forks/Brann-ztw/Kira-Bot-OFC.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/Brann-ztw/Kira-Bot-OFC/network/)
+[![GitHub clones](https://img.shields.io/badge/dynamic/json?color=success&label=Clones&query=count&url=https://github.com/Brann-ztw/Kira-Bot-OFC/clone-count.json)](https://github.com/Brann-ztw/Kira-Bot-OFC)
+
 Kira-Bot-OFC es un bot de WhatsApp desarrollado con Baileys, una librería para interactuar con la API de WhatsApp Web. Este bot incluye múltiples funcionalidades y comandos.
 
-## Requisitos
+## 🚀 Requisitos
 
 - Node.js
 - Git
 - npm
 
-## Instalación
+## ⚙️ Instalación
 
 Sigue estos pasos para instalar y ejecutar Kira-Bot-OFC en tu sistema:
 
@@ -47,10 +51,11 @@ Sigue estos pasos para instalar y ejecutar Kira-Bot-OFC en tu sistema:
     node index.js
     ```
 
-## Uso
+## 📋 Uso
 
-Una vez que el bot esté en funcionamiento, escanea el código QR o código 8 dígitos que aparecerá en la terminal con tu aplicación de WhatsApp para vincular el bot a tu cuenta de WhatsApp.
+Una vez que el bot esté en funcionamiento, escanea el código QR o código de 8 dígitos que aparecerá en la terminal con tu aplicación de WhatsApp para vincular el bot a tu cuenta de WhatsApp.
 
-## Contribuciones
+## 🤝 Contribuciones
 
 Las contribuciones son bienvenidas. Si tienes sugerencias o encuentras errores, por favor abre un issue o envía un pull request.
+
