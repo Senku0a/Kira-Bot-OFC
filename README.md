@@ -1,5 +1,7 @@
 # Kira-Bot-OFC
 
+![Kira-Bot-OFC](https://file.io/aach1x2O6IcM)
+
 [![GitHub stars](https://img.shields.io/github/stars/Brann-ztw/Kira-Bot-OFC.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/Brann-ztw/Kira-Bot-OFC/stargazers/)
 [![GitHub forks](https://img.shields.io/github/forks/Brann-ztw/Kira-Bot-OFC.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/Brann-ztw/Kira-Bot-OFC/network/)
 [![GitHub clones](https://img.shields.io/badge/dynamic/json?color=success&label=Clones&query=count&url=https://github.com/Brann-ztw/Kira-Bot-OFC/clone-count.json)](https://github.com/Brann-ztw/Kira-Bot-OFC)
@@ -58,4 +60,3 @@ Una vez que el bot esté en funcionamiento, escanea el código QR o código de 8
 ## 🤝 Contribuciones
 
 Las contribuciones son bienvenidas. Si tienes sugerencias o encuentras errores, por favor abre un issue o envía un pull request.
-
