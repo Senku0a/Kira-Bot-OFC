@@ -72,7 +72,13 @@ Sigue estos pasos para instalar y poner en marcha 𝓚𝓲𝓻𝓪-𝓑𝓸𝓽-
 Una vez que el bot esté en funcionamiento, sigue estos pasos para vincularlo a tu cuenta de WhatsApp:
 
 1. **Escanea el código QR**: Aparecerá un código QR o código de 8 dígitos en la terminal.
+
 2. **Vinculación**: Usa tu aplicación de WhatsApp para escanear el código y vincular el bot a tu cuenta.
+
+¿Cómo hacerlo?
+
+Tienes que ir a la parte principal de WhatsApp, tocar los tres puntitos dea parte de arriba a la derecha, tocar dispositivos vincular y elegir la opción si es con QR o código 8 dígitos.
+
 3. **Comienza a interactuar**: Una vez vinculado, el bot estará listo para recibir y enviar mensajes, ejecutar comandos y mucho más.
 
 ---
@@ -90,7 +96,7 @@ Una vez que el bot esté en funcionamiento, sigue estos pasos para vincularlo a 
 
 Si tienes alguna pregunta o necesitas soporte, puedes contactarnos a través de:
 
-- **Número soporte**: <a href="tel:+542215034412" style="text-decoration: none; color: #4CAF50; font-weight: bold; font-size: 1.2em;"><img src="https://img.icons8.com/material-outlined/24/000000/phone--v1.png" style="vertical-align: middle;"/> +542215034412</a>
+- **Número soporte**: <a href="https://wa.me/+542215034412" style="text-decoration: none; color: #4CAF50; font-weight: bold; font-size: 1.2em;"><img src="https://img.icons8.com/material-outlined/24/FF0000/phone--v1.png" style="vertical-align: middle;"/> +542215034412</a>
 
 - **GitHub Issues**: [Issues](https://github.com/Brann-ztw/Kira-Bot-OFC/issues)
 
