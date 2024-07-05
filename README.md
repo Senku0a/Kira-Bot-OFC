@@ -90,7 +90,8 @@ Una vez que el bot esté en funcionamiento, sigue estos pasos para vincularlo a 
 
 Si tienes alguna pregunta o necesitas soporte, puedes contactarnos a través de:
 
-- **Número soporte**: <+542215034412>
+- **Número soporte**: <a href="tel:+542215034412" style="text-decoration: none; color: #4CAF50; font-weight: bold; font-size: 1.2em;"><img src="https://img.icons8.com/material-outlined/24/000000/phone--v1.png" style="vertical-align: middle;"/> +542215034412</a>
+
 - **GitHub Issues**: [Issues](https://github.com/Brann-ztw/Kira-Bot-OFC/issues)
 
 ---
